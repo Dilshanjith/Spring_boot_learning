@@ -1,0 +1,4 @@
+http://localhost:8080/api/getuser
+http://localhost:8080/api/adduser
+http://localhost:8080/api/updateuser
+http://localhost:8080/api/deleteuser
